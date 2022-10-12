@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import { MapContainer, TileLayer, GeoJSON} from 'react-leaflet';
 import {features} from '../data/data.json';
 import './Map.css';
-//import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 const Map = ()=>{
