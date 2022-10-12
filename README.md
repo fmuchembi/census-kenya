@@ -1,9 +1,9 @@
 # Kenya Census Basic Web Map
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Get an overview of the map [Create React App](https://kenyapopulationcensus2019.netlify.app/).
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+Simple map created for medium article to demonstrate the use of react-leaflet
+(https://kenyapopulationcensus2019.netlify.app/)
 
-### `npm start`
